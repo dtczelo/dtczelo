@@ -2,10 +2,9 @@
 
 <img align="left" alt="Working man with developments tools and languages, music and stocks icons" width="1920px" height="200px" src="./assets/Front_panel_github.jpg" />
 
-<br/>
-<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h2>About me</h2>
+ <h2>About me</h2>
 
 -   💪 [Frontend Mentor](https://www.frontendmentor.io/profile/dtczelo) is my front-end head coach.
 -   👨‍💻 [Codewars](https://www.codewars.com/users/dtczelo) takes care of the algorythmic side.
