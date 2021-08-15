@@ -1,8 +1,8 @@
-## Hi, I'm Guillaume 🙋‍♂️
+<h1>Hi, I'm Guillaume 🙋‍♂️</h1>
 
 <img align="left" alt="Working man with developments tools and languages, music and stocks icons" width="1920px" height="200px" src="./assets/Front_panel_github.jpg" />
-
-<h3>In short</h3>
+<p></p>
+<h2>About me</h2>
 
 -   💪 [Frontend Mentor](https://www.frontendmentor.io/profile/dtczelo) is my front-end head coach.
 -   👨‍💻 [Codewars](https://www.codewars.com/users/dtczelo) takes care of the algorythmic side.
@@ -10,13 +10,13 @@
     however we can make sweet and groovy music too with my Electron/Vue/Tone sequencer... [want to try ?](https://github.com/dtczelo/Drum-Sequencer-built-with-Tone.js-Vue.js-and-Vuex)
 -   📈 I learn statistics and human psychology through financial markets.
 
-<h3>Connect with me</h3>
+<h2>Connect with me</h2>
 
 Are you looking for a motivated junior front-end developer ? [here is my resume](https://drive.google.com/file/d/1YLwagMQ20kgapUEoT1cMCemFjuEaMCfQ/view?usp=sharing).
 
 For more exhaustive information <a href="https://linkedin.com/in/https://www.linkedin.com/in/guillaume-laloi-548b21180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillaume-laloi-548b21180/" height="30" width="40" /></a>
 
-<h3>Tools</h3>
+<h2>Tools</h2>
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>   
  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>   
