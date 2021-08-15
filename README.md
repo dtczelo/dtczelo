@@ -22,8 +22,8 @@ For more exhaustive information &nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;
  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="50" height="50"/></a>  &nbsp;&nbsp;&nbsp; 
- <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;<a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="50" height="50"/></a>  &nbsp;&nbsp;&nbsp; <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;
+ <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;
  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="50" height="50"/></a> &nbsp;&nbsp;&nbsp;
  </p>
