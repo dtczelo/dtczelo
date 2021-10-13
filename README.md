@@ -14,7 +14,7 @@
 
 <h2>Connect with me</h2>
 
-Are you looking for a motivated junior front-end developer ? [here is my resume](https://drive.google.com/file/d/1W-P4vqmVj_Q3MaUg3cHG0GHC6Gyfsr3e/view?usp=sharing).
+Are you looking for a motivated junior front-end developer ? [here is my resume](https://drive.google.com/file/d/1d4BRxAOFlx7n2063r0D_ggCkoUuuzuR-/view?usp=sharing).
 
 For more exhaustive information &nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/https://www.linkedin.com/in/guillaume-laloi-548b21180/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillaume-laloi-548b21180/" height="30" width="40" /></a>
 
