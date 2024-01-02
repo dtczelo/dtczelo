@@ -14,7 +14,7 @@
 
 <h2>Connect with me</h2>
 
-Are you looking for a motivated junior front-end developer ? [here is my resume](https://drive.google.com/file/d/1d4BRxAOFlx7n2063r0D_ggCkoUuuzuR-/view?usp=sharing).
+Are you looking for a motivated full stack developer ? [here is my resume](https://drive.google.com/file/d/1d4BRxAOFlx7n2063r0D_ggCkoUuuzuR-/view?usp=sharing).
 
 For more exhaustive information &nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/https://www.linkedin.com/in/guillaume-laloi-548b21180/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillaume-laloi-548b21180/" height="30" width="40" /></a>
 
@@ -25,6 +25,7 @@ For more exhaustive information &nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/
   <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="50" height="50"/></a>  &nbsp;&nbsp;&nbsp; <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;
  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;
  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://angular.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/angular.svg" alt="angular" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="50" height="50"/></a> &nbsp;&nbsp;&nbsp;
  </p>
 
