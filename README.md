@@ -16,7 +16,7 @@
 
 <h2>Connect with me</h2>
 
-Are you looking for a motivated full stack developer ? [here is my resume](https://drive.google.com/file/d/1d4BRxAOFlx7n2063r0D_ggCkoUuuzuR-/view?usp=sharing).
+Are you looking for a motivated full stack developer ? [here is my resume](https://drive.google.com/file/d/1DE-WAc2eL2yy_uKae3uLZ9Ly3o-iIhjW/view?usp=drive_link).
 
 For more exhaustive information &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/guillaume-laloi-548b21180/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillaume-laloi-548b21180/" height="30" width="40" /></a>
 
