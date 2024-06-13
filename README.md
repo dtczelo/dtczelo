@@ -25,9 +25,8 @@ For more exhaustive information &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.
  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;
  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;
  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
- <a href="https://ethereum.org/fr/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/solidity" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
- <a href="https://solana.com/fr" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/solana" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
- 
+ <a href="https://ethereum.org/fr/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://solana.com/fr" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/solana.svg" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
  </p>
 
   <p align="left">
