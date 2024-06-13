@@ -6,12 +6,11 @@
 
  <h2>About me</h2>
 
-
+-   🔭 I’m currently working on blockchain and SaaS projects  
+-   👯 I’m looking to collaborate on open source projects  
 -   📈 I learn statistics and human psychology through financial markets and made a trading index position [calculator](https://www.npmjs.com/package/minimalist-money-management-calculator) out of my private trading bot.
 -   🎹 I make underground and loud music, [like so](https://www.youtube.com/user/DtCsound6temOfficiel)
     however we can make sweet and groovy music too with my Electron/Vue/Tone sequencer... [want to try ?](https://github.com/dtczelo/Drum-Sequencer-built-with-Tone.js-Vue.js-and-Vuex)
--   💪 [Frontend Mentor](https://www.frontendmentor.io/profile/dtczelo) is my front-end head coach.
--   👨‍💻 [Codewars](https://www.codewars.com/users/dtczelo) takes care of the algorythmic side.
 
 
 <h2>Connect with me</h2>
