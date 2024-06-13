@@ -25,7 +25,9 @@ For more exhaustive information &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.
  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;
  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/></a>   &nbsp;&nbsp;&nbsp;
  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="vuejs" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
- <a href="https://angular.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://ethereum.org/fr/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/solidity" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://solana.com/fr" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/solana" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
+ 
  </p>
 
   <p align="left">
@@ -38,6 +40,5 @@ For more exhaustive information &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.
 
  <p align="left">
  <a alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="xd" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
- <a alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="xd" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
  <a href="https://aws.amazon.com/fr/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="50" height="50"/></a>&nbsp;&nbsp;&nbsp;
  </p>
